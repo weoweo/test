@@ -1,0 +1,10 @@
+body {
+	color: blue;
+}
+
+div {
+	border: 1px dashed red;
+	margin: 10px;
+	padding: 5px;
+	float: left;
+}
